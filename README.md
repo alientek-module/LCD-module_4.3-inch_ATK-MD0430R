@@ -33,7 +33,7 @@ The electrical parameters are shown in the following table:
 | ----------------- | ------------------------------------------------------------ |
 | Supply voltage    | 5V                                                           |
 | IO port level     | 3.3V                                                         |
-| Power dissipation | ATK-MD0430R-480272:40~165mA<br />ATK-MD0430R-800480:120~320mA |
+| Power dissipation | ATK-MD0430R-480272: 40 ~ 165mA<br />ATK-MD0430R-800480: 120 ~ 320mA |
 
 ### 1.4 Interface
 
