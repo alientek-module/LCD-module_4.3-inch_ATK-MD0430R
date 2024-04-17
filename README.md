@@ -4,7 +4,7 @@
 
 The ATK-MD0430 module looks like this:
 
-<img src="figures/01_ATK_MD0430_Module.png" style="zoom: 25%;" />
+<img src="1_docs/3_figures/01_ATK_MD0430_Module.png" style="zoom:25%;" />
 
 ### 1.2 Features
 
@@ -64,4 +64,4 @@ The ATK-MD0430R module is connected to the external circuit through a 40P FPC so
 
 The schematic diagram of the ATK-MD0430R module is shown as follows.
 
-![](figures/02_ATK_MD0430_SCH.png)
+![](1_docs/3_figures/02_ATK_MD0430_SCH.png)
